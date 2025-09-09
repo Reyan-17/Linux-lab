@@ -56,7 +56,7 @@ more.
 
    <img width="903" height="444" alt="image" src="https://github.com/user-attachments/assets/a63a7217-8637-4485-aaab-d3b58b2a08f9" />
 
- ### ✅ 3 Hard Disk setting
+ ###  3 Hard Disk setting
   Select hard disk setting:
 
   – Choose ‘Create a virtual hard drive Now’, in order to make a virtual disk space.
@@ -67,14 +67,14 @@ more.
 
   <img width="764" height="429" alt="image" src="https://github.com/user-attachments/assets/c12fb1c2-481d-4814-9d6a-fb9476614a52" />
 
-### ✅ 4 Launching your System
+###  4 Launching your System
 
    Choose the downloaded Linux ISO file:
 
    – Click Start to launch your system
    <img width="761" height="430" alt="image" src="https://github.com/user-attachments/assets/c4fcf231-ffa7-4082-931a-c7765c329337" />
 
-   ### ✅ 5 Final installation
+   ###  5 Final installation
 
      Install Linux
 
@@ -84,24 +84,25 @@ more.
   <img width="939" height="387" alt="image" src="https://github.com/user-attachments/assets/3cafd78f-fe19-4e7d-9fff-26f98ca63791" />
 
 
-### ✅ Make your Account:
+###  Make your Account:
 
 – Enter your details as shown below
 
 <img width="469" height="390" alt="image" src="https://github.com/user-attachments/assets/97830660-84bf-46b2-9039-0e1a62d82125" />
 
 
-# 📌 CONGRATULATIONS YOU HAVE SUCCESSFULLY INSTALLED THEUBUNTU LINUX .
+#  CONGRATULATIONS YOU HAVE SUCCESSFULLY INSTALLED THEUBUNTU LINUX .
 
-### 📌 Q1=what are two advantages of installing ubuntu in virtualbox?
+###  Q1=what are two advantages of installing ubuntu in virtualbox?
 
 
 ans=1. safe testing environment
     2. easy setup and removal
 
-### 📌 Q2=what are two advantages of dual booting instead of using a VM?
+###  Q2=what are two advantages of dual booting instead of using a VM?
 
 ans=1.full harware performence
     2.better graphics & gpu support
+
 
 
