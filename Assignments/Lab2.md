@@ -33,6 +33,8 @@ if [ $a=" lakshay" ] && [ $b -lt 18 ]; then       -checking conditions and using
 fi
 
 ```
+<img width="546" height="256" alt="image" src="https://github.com/user-attachments/assets/f4002c7f-8922-4405-bf27-93fd858ade85" />
+
 
 
 
