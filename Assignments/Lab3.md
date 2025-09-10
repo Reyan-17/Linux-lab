@@ -46,10 +46,11 @@ fi
 <img width="564" height="227" alt="image" src="https://github.com/user-attachments/assets/fd164ad5-37d0-4463-a54f-1fa999b92d52" />
 
 ### Q1).differnce between $1,$@ and $# in bash?
-
 Ans * $1= this refers to positional parameters.
-    * $@= represents all arguments passed to the script.
-    * $#= returns the number of arguments passed.
+
+ * $@= represents all arguments passed to the script.
+    
+ * $#= returns the number of arguments passed.
 
 ### Q2).what does exit 1 mean in the script?
     
