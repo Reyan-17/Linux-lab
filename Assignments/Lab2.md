@@ -35,23 +35,12 @@ fi
 ```
 <img width="546" height="256" alt="image" src="https://github.com/user-attachments/assets/f4002c7f-8922-4405-bf27-93fd858ade85" />
 
+<img width="546" height="119" alt="image" src="https://github.com/user-attachments/assets/1776c22d-83b0-42fa-a178-21d867071b3f" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-###  Q1 what is the purpose of #!/bin/bash at the top of the script
+###  Q1).What is the purpose of #!/bin/bash at the top of the script?
 ANS~ The shebang line at the top of a script specifies the interpreter that should be used to the run the script.
 
-###  Q2 how do you make a script executable?
-ANS~ 1. Add the shebang at the top.
-     2. give permission using the chmod command
-     3. run the code.
+###  Q2).How do you make a script executable?
+ANS~ * 1. Add the shebang at the top.
+     * 2. give permission using the chmod command
+     * 3. run the code.
